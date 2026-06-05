@@ -16,8 +16,8 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: "Michael Alejo | AI/ML Engineer",
-  description: "AI/ML Engineer specializing in agentic AI, RAG systems, multi-agent workflows, and predictive ML. Building practical, scalable AI solutions with Python, LangChain, LangGraph, and FastAPI.",
-  keywords: ["AI Engineer", "ML Engineer", "RAG", "LangChain", "LangGraph", "Python", "FastAPI", "Agentic AI", "AI Agents", "Machine Learning", "Multi-Agent Workflows"],
+  description: "AI/ML Engineer specializing in agentic AI, RAG systems, multi-agent workflows, and predictive ML. Building practical, scalable AI solutions with Python, Pydantic AI, and FastAPI.",
+  keywords: ["AI Engineer", "ML Engineer", "RAG", "Pydantic AI", "Python", "FastAPI", "Agentic AI", "AI Agents", "Machine Learning", "Multi-Agent Workflows"],
   authors: [{ name: "Michael Alejo" }],
   creator: "Michael Alejo",
   openGraph: {

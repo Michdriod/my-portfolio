@@ -8,7 +8,7 @@ export const projects: Project[] = [
       "Built an intelligent database query assistant that enables non-technical users to interact with databases using natural language, generate automated reports, and schedule report delivery to stakeholders.",
     technologies: [
       "Python",
-      "LangChain",
+      "Pydantic AI",
       "FastAPI",
       "SQL",
       "PostgreSQL",
@@ -31,8 +31,7 @@ export const projects: Project[] = [
       "Developed an advanced agentic RAG system combining semantic search, knowledge graphs, and multi-step retrieval to improve contextual accuracy and decision-support quality.",
     technologies: [
       "Python",
-      "LangChain",
-      "LangGraph",
+      "Pydantic AI",
       "Vector Databases",
       "Knowledge Graphs",
       "Neo4j",
@@ -54,7 +53,7 @@ export const projects: Project[] = [
       "Python",
       "GPT-4 Vision",
       "OCR",
-      "LangChain",
+      "Pydantic AI",
       "JSON Processing",
       "FastAPI",
     ],
@@ -73,8 +72,7 @@ export const projects: Project[] = [
       "Developed an AI-driven root cause analysis agent implementing the 5 Whys methodology to guide users through structured problem diagnosis and identify underlying causes.",
     technologies: [
       "Python",
-      "LangChain",
-      "LangGraph",
+      "Pydantic AI",
       "AI Agents",
       "Agentic Workflows",
     ],
@@ -93,7 +91,7 @@ export const projects: Project[] = [
       "Developed a multi-mode AI agent suite integrated into IT Service Management platforms with four specialized modes: text autocomplete, transaction payload generator, text enhancer, and intelligent assistance.",
     technologies: [
       "Python",
-      "LangChain",
+      "Pydantic AI",
       "AI Agents",
       "ITSM Integration",
       "FastAPI",
@@ -136,7 +134,7 @@ export const projects: Project[] = [
       "Developed a RAG-powered customer support agent that retrieves relevant knowledge base articles and provides contextual, accurate responses to customer inquiries.",
     technologies: [
       "Python",
-      "LangChain",
+      "Pydantic AI",
       "RAG",
       "Vector Databases",
       "FastAPI",

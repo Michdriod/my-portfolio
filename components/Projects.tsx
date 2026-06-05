@@ -16,7 +16,7 @@ export default function Projects() {
             </h2>
             <div className="w-20 h-1 bg-blue-600 dark:bg-blue-400 mx-auto rounded-full mb-6"></div>
             <p className="text-lg text-slate-600 dark:text-slate-300 max-w-2xl mx-auto">
-              Practical AI/ML solutions built with Python, LangChain, and modern frameworks
+              Practical AI/ML solutions built with Python, Pydantic AI, and modern frameworks
             </p>
           </div>
         </FadeInWhenVisible>

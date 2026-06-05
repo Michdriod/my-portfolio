@@ -48,7 +48,7 @@ export default function About() {
                   Tech Stack
                 </h3>
                 <p className="text-sm text-slate-700 dark:text-slate-300">
-                  Python, TypeScript, LangChain, LangGraph, Pydantic AI, FastAPI, Streamlit
+                  Python, TypeScript, Pydantic AI, FastAPI, Streamlit, MCP
                 </p>
               </div>
 

@@ -29,8 +29,6 @@ export const skillCategories: SkillCategory[] = [
   {
     category: "Frameworks / Libraries",
     skills: [
-      "LangChain",
-      "LangGraph",
       "Pydantic AI",
       "MCP",
       "n8n",
