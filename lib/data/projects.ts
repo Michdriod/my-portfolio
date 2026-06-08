@@ -26,9 +26,9 @@ export const projects: Project[] = [
   },
   {
     id: "advanced-rag-system",
-    title: "Agentic RAG System with Knowledge Graphs",
+    title: "AAgentic RAG Chat Assistant for Context-Rich Retrieval",
     description:
-      "Developed an advanced agentic RAG system combining semantic search, knowledge graphs, and multi-step retrieval to improve contextual accuracy and decision-support quality.",
+      "Built an Agentic RAG chat assistant designed to retrieve more relevant and context-rich information before generating responses. The project addressed the limitation of traditional RAG systems, where retrieved chunks can be relevant in isolation but may not provide enough connected context for accurate answers. By using agentic retrieval workflows and knowledge graph relationships, the assistant was able to better understand the relationship between retrieved data and provide more precise, grounded responses.",
     technologies: [
       "Python",
       "Pydantic AI",
@@ -37,9 +37,10 @@ export const projects: Project[] = [
       "Neo4j",
     ],
     highlights: [
-      "Multi-agent workflow for intelligent retrieval and reasoning",
-      "Knowledge graph integration for enhanced context grounding",
-      "Improved response relevance through structured and unstructured data fusion",
+      "Built a RAG chat assistant that improves response quality by retrieving richer context before answer generation",
+      "Implemented an agentic retrieval flow where the assistant analyzes the user query, searches relevant data, evaluates retrieved context, and refines the final context passed to the LLM",
+      "Used knowledge graph relationships to connect related entities, documents, and data points that basic vector search may miss.",
+      "Combined semantic similarity search with graph-based relationship retrieval to produce more precise and grounded responses."
     ],
     featured: true,
     githubUrl: "https://github.com/Michdriod/Agentic-RAG_knowledge-graph",
@@ -58,7 +59,7 @@ export const projects: Project[] = [
       "FastAPI",
     ],
     highlights: [
-      "Automated extraction of structured data from unstructured documents",
+      "Used ticket context to improve knowledge article retrieval accuracy.",
       "Reduced manual KYC processing time for onboarding workflows",
       "Handles diverse document formats with high accuracy",
     ],
