@@ -52,7 +52,7 @@ export const projects: Project[] = [
       "Built an AI-powered document extraction system using vision-capable LLMs to extract structured data from identity documents, forms, and scanned images for compliance workflows.",
     technologies: [
       "Python",
-      "GPT-4 Vision",
+      "LLAMA 4",
       "OCR",
       "Pydantic AI",
       "JSON Processing",
