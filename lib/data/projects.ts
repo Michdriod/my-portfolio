@@ -26,7 +26,7 @@ export const projects: Project[] = [
   },
   {
     id: "advanced-rag-system",
-    title: "AAgentic RAG Chat Assistant for Context-Rich Retrieval",
+    title: "Agentic RAG Chat Assistant for Context-Rich Retrieval",
     description:
       "Built an Agentic RAG chat assistant designed to retrieve more relevant and context-rich information before generating responses. The project addressed the limitation of traditional RAG systems, where retrieved chunks can be relevant in isolation but may not provide enough connected context for accurate answers. By using agentic retrieval workflows and knowledge graph relationships, the assistant was able to better understand the relationship between retrieved data and provide more precise, grounded responses.",
     technologies: [
